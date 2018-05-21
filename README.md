@@ -1,2 +1,5 @@
 # hello-world
-repository for edx
+
+Hi All
+
+Part time student full time worker here
